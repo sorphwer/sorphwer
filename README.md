@@ -2,7 +2,8 @@
 - 🔭 I’m currently working as an intern in PricewaterhouseCoopers US Advisory - Shanghai AC
 - 👯 I’m looking to collaborate on my jekyll theme WIP : https://riino.site/2020/03/01/welcome-to-jekyll.html
 - ⚡ I'm interested in **Infomation theory** with related visualization
-- 📫 sorphwer@gmail.com 
+- 📫 If there's anything I should be reminded with : sorphwer@gmail.com 
+- 💬 Language Support : English/繁體中文/简体中文/日本語/Python
 <!--
 **sorphwer/sorphwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
