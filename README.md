@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on my jekyll theme WIP : https://riino.site/2020/03/01/welcome-to-jekyll.html
-- ⚡ I'm interested in **Infomation theory** with related visualization
-- 📫 If there's anything I should be reminded with : sorphwer@gmail.com 
-- 💬 Language Support : English/繁體中文/简体中文/日本語/Python
+- 👯 Blog : [riino.site](https://riino.site/)
+- ⚡ Projects: [DevPaP](https://nestof.notion.site/cee7a2484fec49499b4095fbd08c0e24?v=52da712ff5fb4987b84e8cea7a01e76c)
+- 📫 Contact: sorphwer@gmail.com 
+- 🔭 Company: [Deloitte](https://www2.deloitte.com/us/en.html)
+- 💬 Language I speak in: `EN` `zh-CN` `JP` 
+- 🌱 Language I code with: `JavaScript` `Python` 
 <!--
 **sorphwer/sorphwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
