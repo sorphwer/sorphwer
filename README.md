@@ -6,7 +6,7 @@
   -   sorphwer(at)gmail.com
   -   riizhang(at)deloitte.com.cn
   -   20175064(at)alu.cqu.edu
-- 🔭 I’m currently working on Deloitte, in SSDLC and AI Security
+- 🔭 I’m currently working on AI Security
 - 💬 Language I speak in: `EN` `zh-CN` `JP` 
 - 🌱 Language I code with: `JavaScript` `Python` 
 <!--
