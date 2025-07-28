@@ -4,7 +4,6 @@
 - ⚡ Projects: [DevPaP](https://nestof.notion.site/cee7a2484fec49499b4095fbd08c0e24?v=52da712ff5fb4987b84e8cea7a01e76c)
 - 📫 Contact:
   -   sorphwer(at)gmail.com
-  -   riizhang(at)deloitte.com.cn
   -   20175064(at)alu.cqu.edu
 - 🔭 I’m currently working on AI Security
 - 💬 Language I speak in: `EN` `zh-CN` `JP` 
