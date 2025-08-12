@@ -5,9 +5,10 @@
 - 📫 Contact:
   -   sorphwer(at)gmail.com
   -   20175064(at)alu.cqu.edu
-- 🔭 I’m currently working on AI Security
+- 🔭 I’m currently working on AI Security, AI Workflow/Agent
 - 💬 Language I speak in: `EN` `zh-CN` `JP` 
-- 🌱 Language I code with: `JavaScript` `Python` 
+- 🌱 Language I code with: `JavaScript` `Python`
+- 💬 Ask me about `Dify` `Gradio` `Neo4j` `IT Audit/Code Audit` `Cybersecurity`
 <!--
 **sorphwer/sorphwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
