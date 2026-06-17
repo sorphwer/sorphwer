@@ -6,6 +6,7 @@
   -   sorphwer(at)gmail.com
   -   20175064(at)alu.cqu.edu
 - 🔭 I’m currently working on AI Security, AI Workflow/Agent
+- Contributor of my loved [Dify](https://github.com/langgenius/dify), [on-my-pi](https://github.com/can1357/oh-my-pi), and Feishu Plugin of OpenClaw.
 - 💬 Language I speak in: `EN` `zh-CN` `JP` 
 - 🌱 Language I code with: `JavaScript` `Python`
 - 💬 Ask me about `Dify` `Gradio` `Neo4j` `IT Audit/Code Audit` `Cybersecurity`
